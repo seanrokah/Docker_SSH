@@ -27,8 +27,8 @@ These can be set as arguments to the setup script.
 
 1. **Clone this repository:**
    ```sh
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/seanrokah/Docker_SSH
+   cd Docker_SSH
    ```
 
 2. **Run the setup script:**
