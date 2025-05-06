@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ssh-server:
+    build:
+      context: .
+      args:
+        ROOT_PASSWORD: ${ROOT_PASSWORD}
+    container_name: ssh-server
+    ports:
+      - "${SSH_PORT}:22"
