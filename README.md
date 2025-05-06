@@ -8,7 +8,7 @@ This project provides a simple way to run an Ubuntu-based SSH server inside a Do
 
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- (Optional) [netcat](https://linux.die.net/man/1/nc) (`nc`) for advanced waiting logic in scripts
+
 
 ---
 
